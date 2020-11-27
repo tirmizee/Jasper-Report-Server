@@ -13,3 +13,5 @@
 Jasper server version 7 รองรับ java 8 ซึ่ง version ก่อนหน้านี้รองรับ java 6 ดังนั้นการติดตั้ง java 8 ทำให้เกิดปัญหา
 
 ### การติดตั้ง Font ใน Jasper server
+
+### การเพิ่ม Input Controls
