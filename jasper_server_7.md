@@ -1,4 +1,4 @@
-### JasperReports Server requires a database in order to run
+### JasperReports Server ต้องการฐานข้อมูลเพื่อที่จะรันมี 2 ตัวเลือก
 
 •	Bundled PostgreSQL database
 
