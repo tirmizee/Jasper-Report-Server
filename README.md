@@ -11,3 +11,4 @@
 - การ Export report จาก Jasper server มาแก้ไข
 - การเชื่อมต่อ Jasper studio กับ Jasper server
 - การเชื่อมต่อ Jasper server ผ่าน REST API
+- การเปิดใช้งาน HTTPS ใน Jasper server
