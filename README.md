@@ -2,6 +2,6 @@
 
 ### Table of content
 
-- 1. การติดตั้ง Driver database ใน Jasper server
+- การติดตั้ง Driver database ใน Jasper server
 
 
