@@ -12,3 +12,7 @@
 - การเชื่อมต่อ Jasper studio กับ Jasper server
 - การเชื่อมต่อ Jasper server ผ่าน REST API
 - การเปิดใช้งาน HTTPS ใน Jasper server
+
+### Reference
+
+- http://jasperserver.sourceforge.net/docs/3-7-0/JasperServer-Localization-Guide.pdf 
