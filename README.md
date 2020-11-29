@@ -8,7 +8,6 @@
 - การติดตั้ง Font ใน Jasper server
 - การตั้งค่า Data source (Oracle, Mysql, Postgresql, Mssql) ใน Jasper server
 - การตั้งค่า Data source JNDI ใน Jasper server
-- การตั้งค่า Data source JNDI Pool ใน Jasper server
 - การ Upload report ไปยัง Jasper server
 - การ Export report จาก Jasper server มาแก้ไข
 - การเชื่อมต่อ Jasper studio กับ Jasper server
