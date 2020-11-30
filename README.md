@@ -18,3 +18,4 @@
 
 - http://jasperserver.sourceforge.net/docs/3-7-0/JasperServer-Localization-Guide.pdf 
 - https://gist.github.com/akari0624/13142a5cc58d8849ecaf6a1959abe9ee
+- https://community.jaspersoft.com/system/files/restricted-docs/jaspersoft-studio-user-guide_9.pdf
