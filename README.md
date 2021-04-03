@@ -15,6 +15,7 @@
 - การเชื่อมต่อ Jasper server ผ่าน REST API
 - การเปิดใช้งาน HTTPS ใน Jasper server
 - การตั้งค่าการ Export Excel (แก้ไข WEB-INF/applicationContext.xml) ค้นหา bean id xlsExportParameters
+- การติดตั้งและใช้งาน dependencies ภายนอก
 
 ### Reference
 
