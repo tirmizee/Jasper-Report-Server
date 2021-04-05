@@ -1,4 +1,4 @@
-# 
+# Jasper Report and Jasper Server
 
 ### Table of content
 
@@ -17,7 +17,9 @@
 - การตั้งค่าการ Export Excel (แก้ไข WEB-INF/applicationContext.xml) ค้นหา bean id xlsExportParameters
 - การติดตั้งและใช้งาน dependencies ภายนอก
 - การใช้งาน Jasper Properties
-- การใช้งาน dymamic query ใน jasper report ด้วย $P!{}
+- การใช้งาน dymamic query ใน jasper report ด้วย parameter $P!{}
+- การใช้งาน parameter ที่มีค่า Null ใน query ด้วย parameter $X{}
+
 ### Reference
 
 - http://jasperserver.sourceforge.net/docs/3-7-0/JasperServer-Localization-Guide.pdf 
