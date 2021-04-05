@@ -19,6 +19,9 @@
 - การใช้งาน Jasper Properties
 - การใช้งาน dymamic query ใน jasper report ด้วย parameter $P!{}
 - การใช้งาน parameter ที่มีค่า Null ใน query ด้วย parameter $X{}
+- การ Export report จาก Repository UI
+- การ Export report จาก Settings UI
+- การ Import report จาก Settings UI
 
 ### Reference
 
