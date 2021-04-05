@@ -17,7 +17,7 @@
 - การตั้งค่าการ Export Excel (แก้ไข WEB-INF/applicationContext.xml) ค้นหา bean id xlsExportParameters
 - การติดตั้งและใช้งาน dependencies ภายนอก
 - การใช้งาน Jasper Properties
-
+- การใช้งาน dymamic query ใน jasper report ด้วย $P!{}
 ### Reference
 
 - http://jasperserver.sourceforge.net/docs/3-7-0/JasperServer-Localization-Guide.pdf 
