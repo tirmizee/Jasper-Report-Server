@@ -22,6 +22,7 @@
 - การ Export report จาก Repository UI
 - การ Export report จาก Settings UI
 - การ Import report จาก Settings UI
+- การส่ง Parameter หลักไปยังชุดข้อมูลย่อย (Sub-Dataset)
 
 ### Reference
 
