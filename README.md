@@ -31,3 +31,7 @@
 - https://community.jaspersoft.com/system/files/restricted-docs/jaspersoft-studio-user-guide_9.pdf
 - https://community.jaspersoft.com/wiki/how-use-multiple-data-sources-jaspersoft-studio-or-jasperreports-server
 - https://www.youtube.com/watch?v=XiPJkdwrFnA
+
+### Solution
+
+- https://community.jaspersoft.com/questions/996641/jaspersoft-server-620-bundled-postgresql-not-starting
