@@ -36,3 +36,4 @@
 
 - https://community.jaspersoft.com/questions/996641/jaspersoft-server-620-bundled-postgresql-not-starting
 - https://github.com/ClusterHQ/dvol/issues/45
+- https://stackoverflow.com/questions/55381447/getting-err-cert-authority-invalid-with-axios
