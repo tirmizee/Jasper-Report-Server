@@ -16,3 +16,4 @@
       export JAVA_OPTS
       export LD_LIBRARY_PATH
 			    
+- #####  run ./catalina.sh เพื่อเริ่มต้น tomcat ใหม่
